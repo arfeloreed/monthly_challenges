@@ -1,0 +1,10 @@
+h1,
+h2,
+.fallback {
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  margin: 3rem 0 2rem;
+}
